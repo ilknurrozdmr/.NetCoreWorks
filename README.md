@@ -1,1 +1,1 @@
-# Patika.dev-.NetCore-Works
+# .NetCore-Works
